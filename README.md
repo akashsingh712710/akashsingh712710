@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashsingh712710&theme=dark&hide_border=false" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akashsingh712710&theme=dark&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
